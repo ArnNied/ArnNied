@@ -32,8 +32,7 @@ Credits
 ![Python | https://icons8.com/icon/13441/python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![Javascript | https://icons8.com/icon/108784/javascript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![Vue | https://icons8.com/icon/rY6agKizO9eb/vue-js](https://img.icons8.com/color/48/000000/vue-js.png)
-<img src="/icons/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
-<!-- ![Tailwind](/icons/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg) -->
+<img src="/icons/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" height="48"/>
 
 ## ✨ Contact Me
 
@@ -43,5 +42,7 @@ Credits
 ## 📊 Fancy Stats
 
 [![ArnNied's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ArnNied's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArnNied)](https://github.com/anuraghazra/github-readme-stats)
