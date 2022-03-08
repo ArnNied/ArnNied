@@ -25,7 +25,7 @@ Credits
 
 - 🎓 I'm a college student
 - 💻 learning to become a web developer
-- :indonesia:  Based in Indonesia
+- :indonesia: Based in Indonesia
 
 ## 🧰 Toolbelt
 
@@ -38,13 +38,15 @@ Credits
 
 [![Email](https://img.shields.io/badge/Email-arnnied03%40gmail.com-EA4335?logo=gmail)](mailto:arnnied03@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-ArnNied%230396-5865F2?logo=discord)
+[![Email](https://img.shields.io/badge/Instagram-arnnied-E4405F?logo=instagram)](https://www.instagram.com/arnnied/)
+
 
 ## 📊 Fancy Stats
 
 [![ArnNied's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnNied&theme=github_dark" />
