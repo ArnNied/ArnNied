@@ -41,9 +41,7 @@ Credits
 
 ## 📊 Fancy Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true" />
-</a>
+[![ArnNied's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css" />
