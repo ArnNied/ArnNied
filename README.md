@@ -29,9 +29,9 @@ Credits
 
 ## 🧰 Toolbelt
 
-![Python | https://icons8.com/icon/13441/python](https://img.icons8.com/color/48/000000/python--v1.png)
-![Javascript | https://icons8.com/icon/108784/javascript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![Vue | https://icons8.com/icon/rY6agKizO9eb/vue-js](https://img.icons8.com/color/48/000000/vue-js.png)
+[![Python](https://img.icons8.com/color/48/000000/python--v1.png)](https://icons8.com/icon/13441/python)
+[![Javascript](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://icons8.com/icon/108784/javascript)
+[![Javascript](https://img.icons8.com/color/48/000000/vue-js.png)](https://icons8.com/icon/rY6agKizO9eb/vue-js)
 <img src="/icons/tailwindcss.svg" height="48"/>
 
 ## ✨ Contact Me
