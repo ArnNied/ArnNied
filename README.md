@@ -23,9 +23,9 @@ Credits
 
 # 👋 Hi there, I'm Andrien
 
--   🎓 I'm a college student
--   💻 learning to become a web developer
--   :indonesia: Based in Indonesia
+- 🎓 I'm a college student
+- 💻 learning to become a web developer
+- :indonesia:  Based in Indonesia
 
 ## 🧰 Toolbelt
 
@@ -41,8 +41,15 @@ Credits
 
 ## 📊 Fancy Stats
 
-[![ArnNied's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![ArnNied's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![ArnNied's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArnNied)](https://github.com/anuraghazra/github-readme-stats)
