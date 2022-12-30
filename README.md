@@ -46,7 +46,7 @@ Credits
 [![ArnNied's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnNied&theme=github_dark&show_icons=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css&v=2" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnNied&theme=github_dark&hide=css,php&v=2" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArnNied&theme=github_dark&v=2" />
